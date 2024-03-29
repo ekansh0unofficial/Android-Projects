@@ -1,0 +1,184 @@
+<resources>
+
+    <string name="app_name">30Day</string>
+
+    <!-- Day 1 -->
+    <string name="day1_headline">Gratitude Journaling</string>
+    <string name="day1_activity">Spend 10 minutes writing down three things you\'re grateful for today in a journal.</string>
+    <string name="day1_quote">\"Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously.\"</string>
+    <string name="day1_writer">- Ralph Waldo Emerson</string>
+
+    <!-- Day 2 -->
+    <string name="day2_headline">Morning Meditation</string>
+    <string name="day2_activity">Start your day with a 5-minute meditation session. Focus on your breath and cultivate a sense of calm and presence.</string>
+    <string name="day2_quote">\"Peace comes from within. Do not seek it without.\"</string>
+    <string name="day2_writer">- Buddha</string>
+
+    <!-- Day 3 -->
+    <string name="day3_headline">Digital Detox</string>
+    <string name="day3_activity">Take a break from screens and technology for an hour. Use this time to engage in offline activities or relaxation.</string>
+    <string name="day3_quote">\"Almost everything will work again if you unplug it for a few minutes, including you.\"</string>
+    <string name="day3_writer">- Anne Lamott</string>
+
+    <!-- Day 4 -->
+    <string name="day4_headline">Nature Walk</string>
+    <string name="day4_activity">Spend time outdoors, surrounded by nature. Take a leisurely walk in a park or forest and appreciate the beauty around you.</string>
+    <string name="day4_quote">\"In every walk with nature, one receives far more than he seeks.\"</string>
+    <string name="day4_writer">- John Muir</string>
+
+    <!-- Day 5 -->
+    <string name="day5_headline">Self-Compassion Exercise</string>
+    <string name="day5_activity">Practice self-compassion by writing yourself a kind and encouraging letter. Be gentle with yourself and acknowledge your worth.</string>
+    <string name="day5_quote">\"You yourself, as much as anybody in the entire universe, deserve your love and affection.\"</string>
+    <string name="day5_writer">- Buddha</string>
+
+    <!-- Day 6 -->
+    <string name="day6_headline">Healthy Meal Preparation</string>
+    <string name="day6_activity">Cook a nutritious meal for yourself using fresh ingredients. Pay attention to the colors, textures, and flavors of the food you\'re preparing.</string>
+    <string name="day6_quote">\"Let food be thy medicine and medicine be thy food.\"</string>
+    <string name="day6_writer">- Hippocrates</string>
+
+    <!-- Day 7 -->
+    <string name="day7_headline">Digital Declutter</string>
+    <string name="day7_activity">Declutter your digital space by organizing files, deleting unnecessary emails, and unsubscribing from newsletters or subscriptions you no longer need.</string>
+    <string name="day7_quote">\"Clutter is not just physical stuff. It\'s old ideas, toxic relationships, and bad habits. Clutter is anything that does not support your better self.\"</string>
+    <string name="day7_writer">- Eleanor Brownn</string>
+
+    <!-- Day 8 -->
+    <string name="day8_headline">Relaxation Routine</string>
+    <string name="day8_activity">Dedicate 30 minutes to relaxation. Practice deep breathing exercises, take a warm bath, or indulge in a favorite hobby that helps you unwind.</string>
+    <string name="day8_quote">\"Sometimes the most productive thing you can do is relax.\"</string>
+    <string name="day8_writer">- Mark Black</string>
+
+    <!-- Day 9 -->
+    <string name="day9_headline">Journaling Reflection</string>
+    <string name="day9_activity">Reflect on your emotions, thoughts, and experiences by journaling for 15 minutes. Allow yourself to express and process your feelings without judgment.</string>
+    <string name="day9_quote">\"Journal writing is a voyage to the interior.\"</string>
+    <string name="day9_writer">- Christina Baldwin</string>
+
+    <!-- Day 10 -->
+    <string name="day10_headline">Expressing Creativity</string>
+    <string name="day10_activity">Engage in a creative activity that brings you joy, whether it\'s painting, writing, dancing, or playing music. Allow yourself to express your creativity freely.</string>
+    <string name="day10_quote">\"Creativity takes courage.\"</string>
+    <string name="day10_writer">- Henri Matisse</string>
+
+    <!-- Day 11 -->
+    <string name="day11_headline">Quality Time with Loved Ones</string>
+    <string name="day11_activity">Spend quality time with a friend or family member. Connect with them through meaningful conversation, laughter, or shared activities.</string>
+    <string name="day11_quote">\"The most important thing in the world is family and love.\"</string>
+    <string name="day11_writer">- John Wooden</string>
+
+    <!-- Day 12 -->
+    <string name="day12_headline">Gratitude Visit</string>
+    <string name="day12_activity">Reach out to someone who has had a positive impact on your life and express your gratitude to them. Write them a heartfelt letter or give them a call to let them know how much you appreciate them.</string>
+    <string name="day12_quote">\"Feeling gratitude and not expressing it is like wrapping a present and not giving it.\"</string>
+    <string name="day12_writer">- William Arthur Ward</string>
+
+    <!-- Day 13 -->
+    <string name="day13_headline">Mindful Movement</string>
+    <string name="day13_activity">Practice mindful movement such as yoga, tai chi, or stretching exercises. Focus on the sensations in your body and the rhythm of your breath as you move.</string>
+    <string name="day13_quote">\"Movement is a medicine for creating change in a person\'s physical, emotional, and mental states.\"</string>
+    <string name="day13_writer">- Carol Welch</string>
+
+    <!-- Day 14 -->
+    <string name="day14_headline">Digital Detox</string>
+    <string name="day14_activity">Take another break from screens and technology for an hour. Use this time to engage in activities that nourish your mind and soul, such as reading a book, going for a walk, or practicing a hobby.</string>
+    <string name="day14_quote">\"Technology can be our best friend, and technology can also be the biggest party pooper of our lives. It interrupts our own story, interrupts our ability to have a thought or a daydream, to imagine something wonderful.\"</string>
+    <string name="day14_writer">- Steven Spielberg</string>
+
+    <!-- Day 15 -->
+    <string name="day15_headline">Mindful Eating</string>
+    <string name="day15_activity">Practice mindful eating during your meals today. Slow down, savor each bite, and pay attention to the flavors, textures, and sensations of the food you\'re eating.</string>
+    <string name="day15_quote">\"When you eat, appreciate every last bite.\"</string>
+    <string name="day15_writer">- David Wolfe</string>
+
+    <!-- Day 16 -->
+    <string name="day16_headline">Gratitude Walk</string>
+    <string name="day16_activity">Go for a walk outdoors and focus on all the things you\'re grateful for. Notice the beauty of nature around you and take in the</string>
+    <string name="day16_quote">\"Walk as if you are kissing the Earth with your feet.\"</string>
+    <string name="day16_writer">- Thich Nhat Hanh</string>
+
+    <!-- Day 17 -->
+    <string name="day17_headline">Acts of Kindness</string>
+    <string name="day17_activity">Perform a random act of kindness for someone else today. It could be as simple as holding the door open for someone, complimenting a stranger, or helping a neighbor with their groceries.</string>
+    <string name="day17_quote">\"No act of kindness, no matter how small, is ever wasted.\"</string>
+    <string name="day17_writer">- Aesop</string>
+
+    <!-- Day 18 -->
+    <string name="day18_headline">Self-Reflection</string>
+    <string name="day18_activity">Set aside some time for self-reflection today. Journal about your goals, dreams, and aspirations, and think about the steps you can take to move closer to them.</string>
+    <string name="day18_quote">\"The only journey is the one within.\"</string>
+    <string name="day18_writer">- Rainer Maria Rilke</string>
+
+    <!-- Day 19 -->
+    <string name="day19_headline">Creative Expression</string>
+    <string name="day19_activity">Engage in a creative activity that brings you joy, such as painting, writing, dancing, or playing music. Allow yourself to express your thoughts and emotions freely through your chosen medium.</string>
+    <string name="day19_quote">\"Creativity is intelligence having fun.\"</string>
+    <string name="day19_writer">- Albert Einstein</string>
+
+    <!-- Day 20 -->
+    <string name="day20_headline">Self-Care Day</string>
+    <string name="day20_activity">Dedicate today to self-care activities that nourish your mind, body, and soul. Take a relaxing bath, practice yoga or meditation, read a book, or indulge in your favorite hobby.</string>
+    <string name="day20_quote">\"Self-care is giving the world the best of you, instead of what\'s left of you.\"</string>
+    <string name="day20_writer">- Katie Reed</string>
+
+    <!-- Day 21 -->
+    <string name="day21_headline">Positive Affirmations</string>
+    <string name="day21_activity">Repeat positive affirmations to yourself throughout the day. Affirmations such as "I am worthy," "I am capable," and "I am enough" can help boost your self-esteem and confidence.</string>
+    <string name="day21_quote">\"You yourself, as much as anybody in the entire universe, deserve your love and affection.\"</string>
+    <string name="day21_writer">- Buddha</string>
+
+    <!-- Day 22 -->
+    <string name="day22_headline">Spend Time in Nature</string>
+    <string name="day22_activity">Spend at least 30 minutes outdoors today. Whether it\'s a walk in the park, a hike in the woods, or simply sitting in your backyard, connect with the natural world around you.</string>
+    <string name="day22_quote">\"In every walk with nature, one receives far more than he seeks.\"</string>
+    <string name="day22_writer">- John Muir</string>
+
+    <!-- Day 23 -->
+    <string name="day23_headline">Practice Gratitude</string>
+    <string name="day23_activity">Write down three things you\'re grateful for today. Reflect on the positive aspects of your life and express gratitude for the blessings you have.</string>
+    <string name="day23_quote">\"Gratitude can transform common days into thanksgivings, turn routine jobs into joy, and change ordinary opportunities into blessings.\"</string>
+    <string name="day23_writer">- William Arthur Ward</string>
+
+    <!-- Day 24 -->
+    <string name="day24_headline">Mindful Breathing</string>
+    <string name="day24_activity">Take a few minutes to focus on your breath. Practice deep breathing exercises to center yourself and bring awareness to the present moment.</string>
+    <string name="day24_quote">\"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.\"</string>
+    <string name="day24_writer">- Thich Nhat Hanh</string>
+
+    <!-- Day 25 -->
+    <string name="day25_headline">Random Acts of Kindness</string>
+    <string name="day25_activity">Perform one random act of kindness for a stranger today. It could be as simple as paying for someone\'s coffee, complimenting a passerby, or holding the door open.</string>
+    <string name="day25_quote">\"Kindness is the language which the deaf can hear and the blind can see.\"</string>
+    <string name="day25_writer">- Mark Twain</string>
+
+    <!-- Day 26 -->
+    <string name="day26_headline">Creative Expression</string>
+    <string name="day26_activity">Engage in a creative activity that brings you joy, whether it\'s painting, writing, dancing, or playing music. Allow yourself to express your thoughts and emotions freely through your chosen medium.</string>
+    <string name="day26_quote">\"Creativity is intelligence having fun.\"</string>
+    <string name="day26_writer">- Albert Einstein</string>
+
+    <!-- Day 27 -->
+    <string name="day27_headline">Digital Detox</string>
+    <string name="day27_activity">Take a break from screens and technology for at least an hour. Use this time to engage in offline activities, connect with loved ones, or simply relax and unwind.</string>
+    <string name="day27_quote">\"Unplug and reconnect with the world around you.\"</string>
+    <string name="day27_writer">- Unknown</string>
+
+    <!-- Day 28 -->
+    <string name="day28_headline">Practice Mindfulness</string>
+    <string name="day28_activity">Take a few moments to practice mindfulness today. Bring awareness to your thoughts, feelings, and sensations without judgment, and cultivate a sense of peace and presence.</string>
+    <string name="day28_quote">\"Mindfulness is the aware, balanced acceptance of the present experience. It isn\'t more complicated than that. It is opening to or receiving the present moment, pleasant or unpleasant, just as it is, without either clinging to it or rejecting it.\"</string>
+    <string name="day28_writer">- Sylvia Boorstein</string>
+
+    <!-- Day 29 -->
+    <string name="day29_headline">Gratitude Reflection</string>
+    <string name="day29_activity">Reflect on the things you\'re grateful for in your life. Take a moment to appreciate the blessings, big and small, and express gratitude for the abundance that surrounds you.</string>
+    <string name="day29_quote">\"Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.\"</string>
+    <string name="day29_writer">- Melody Beattie</string>
+
+    <!-- Day 30 -->
+    <string name="day30_headline">Celebrating Progress</string>
+    <string name="day30_activity">Celebrate your achievements and progress over the past 30 days. Take time to acknowledge how far you\'ve come on your self-care journey and commit to continuing to prioritize your well-being.</string>
+    <string name="day30_quote">\"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.\"</string>
+    <string name="day30_writer">- Albert Schweitzer</string>
+</resources>
